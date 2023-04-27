@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/mjml72/rating-component)
+- Solution URL: (https://mjml72.github.io/rating-component/)
 - Live Site URL:(https://your-live-site-url.com)
 
 ## My process
